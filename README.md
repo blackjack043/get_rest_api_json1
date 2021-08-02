@@ -1,2 +1,1 @@
-# get_rest_api_json1
-Created with CodeSandbox
+[Directory Structure Book - Store](https://nuxtjs.org/docs/2.x/directory-structure/store)
